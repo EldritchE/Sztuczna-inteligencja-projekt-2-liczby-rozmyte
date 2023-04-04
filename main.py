@@ -65,3 +65,5 @@ czas.view(sim=czasowanie)
 plt.show()
 
 
+
+
